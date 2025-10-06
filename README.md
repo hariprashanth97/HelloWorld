@@ -1,2 +1,2 @@
 # HelloWorld
-A simple Helloworld app to send hello world message to a user
+A simple Helloworld app to send hello world message to a user.

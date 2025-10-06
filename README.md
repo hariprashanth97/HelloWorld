@@ -1,4 +1,4 @@
-# Spring Boot Hello World
+# Hello World App
 
 **A simple Helloworld app to send hello world message to a user**
 
